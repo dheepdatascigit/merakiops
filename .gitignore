@@ -15,6 +15,9 @@ db.sqlite3
 /static
 .DS_Store
 
+#ignore directories of 3rdparty
+/merakigithub
+
 # But not these files...
 ## mac OUI global database
 !oui_base16_eqseperator.dat
